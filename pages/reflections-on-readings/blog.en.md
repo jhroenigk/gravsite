@@ -1,0 +1,16 @@
+---
+title: 'Reflections On Readings'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
+published: false
+---
+
+Saussure, Course in General Linguistics, with reference to pp. 86–7, 139, ...
+1. Something I found of particular interest in the Saussure reading, though less theoretical and perhaps more technical in nature, I personally find interesting is the distinction that he draws between grammar being expressed by pure "nothingness" and the zero-sign. This seems to arise first on p. 86–7, where he is speaking on zero-signs in Old Slavic (presumably what is called Old Church Slavonic is what is meant here). He discusses the various endings that occur in both Czech and in OCS and contrasts them with the zero-endings that come specifically after neuter and feminine plural substantives. Saussure provides specifically the words for "wife" and "word." I won't use his orthography since I don't know how to type hachek on my keyboard and because the words (given their frequency in day-to-day conversation and the relatively later development of specific Slavic vernaculars) are the same in modern-day Russian (a language I have more familiarity with than Czech): "жена" (zhená) & "слово" (slóvo). Saussure notes that the genitive plurals are "zhen" and "slov" respectively e.g. “много слов" (mnogo slov = many words [gen. pl.]), “мало жен” (malo zhen = few wives [gen. pl.]). Here he notes something I find important in terms of how morphemes convey grammatical meaning: "a material sign is not necessary for the expression of an idea; language is satisfied with the opposition between something and nothing" (p. 86). This topic is later addressed with reference to syntax on p. 139 with an example comparing relative pronouns in English and French. Whereas in English the relative pronoun "that" is optional in the construction, "the man I have seen", the same sentence rendered in French would absolutely require the use of the relative object pronoun "que": "l'homme que j'ai vu". Importantly, Saussure notes here that if we compare the French against the English, it's easy to come to the conclusion that syntax is somehow immaterial and that the meaning is expressed by nothingness. He says, however, that this is misleading insofar as syntax cannot be expressed without one unit's reference to other concrete units within one given system. It isn't then that English speakers have some innate ability to render the meaning of the antecedent out of nothing but rather by that syntactic construction's relation to other syntactic structures within English renders the structure intelligible. What I gathered from this is how in not just one subfield but in fact within multiple subfields, meaning is often built upon the self-referentiality of the system, which is always something to keep in mind whenever we come across unfamiliar, seemingly impossible constructions in foreign language learning. That is, upon further reflection/study there is often meaning conveyed by means of contrast within a given system. So yeah, cool beans.
