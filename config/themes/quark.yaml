@@ -1,0 +1,20 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo:
+  user/themes/quark/images/logo/JH-Roenigk-14.jpg:
+    name: JH-Roenigk-14.jpg
+    full_path: JH-Roenigk-14.jpg
+    type: image/jpeg
+    size: 129586
+    path: user/themes/quark/images/logo/JH-Roenigk-14.jpg
+custom_logo_mobile: {  }
